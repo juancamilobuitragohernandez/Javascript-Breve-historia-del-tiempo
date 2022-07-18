@@ -1,0 +1,32 @@
+.letra-div{
+    font-size:28px;
+    color: blue;
+}
+.images{
+    width:300px;
+    margin-top:20px;
+}
+.color{
+    font-size:28px;
+    color:black;
+}
+.parrafo{
+    width:30%;
+    text-align:justify;
+}
+.ima{
+    width:250px;
+    margin-top:30px;      
+}
+.div-p{
+    width:30%;
+    text-align:justify;
+}
+.letra-p{
+    width:50%;
+    text-align:justify;    
+}
+.parafo-l{
+    width:50%;
+    text-align:justify;   
+}
